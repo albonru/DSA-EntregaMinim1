@@ -5,14 +5,11 @@ Nombre: Alba Onrubia Pitarque
 PARTE I
 	1) Las entidades principales que están en el package "models":
 		Objeto.java, User.java
-
 	2) La interfaz Java GameManager.java especifica las operaciones necesarias
-
 	3.1) La clase User tiene relación con la clase Objeto
 		a. El contenedor de usuarios es una lista implementada como LinkedList
 		b. El contenedor de objetos es una lista implementada como LinkedList
 		c. Cada usuario consta de un contenedor de objetos comprados implementado como LinkedList
-
 	estado: implementación completa de modelos, estructuras de datos y pruebas unitarias
 
 PARTE II
